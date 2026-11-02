@@ -9,7 +9,7 @@ The primary Data source used is Excel.xlxs
 
 
 ### Tools Used
-- MS Excel for data cleaning [Get it Here]{https://www.microsoft.com}
+- MS Excel for data cleaning [Download](https://www.microsoft.com)
 - SQL Server
 - Power BI
 - MS Powerpoint
